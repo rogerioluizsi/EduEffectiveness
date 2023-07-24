@@ -1,5 +1,5 @@
 # EduEffectiveness
-Respository of a machine learning method to compare educational effectiveness of political units. Thiis method were submitted  to a journal as a new contribution.
+Repository of a machine learning method to compare educational effectiveness. This method was submitted to the PLOS ONE journal as a new contribution.
 
 ### Abstract
 Studies comparing large-scale assessment data among educational systems have been
