@@ -1,5 +1,5 @@
 # EduEffectiveness
-Repository of a machine learning method to compare educational system effectiveness. This method was submitted to the PLOS ONE journal as a new contribution.
+Repository of a machine learning method to compare educational system effectiveness by using large-scale assessment data. This method was submitted to the PLOS ONE journal as a new contribution.
 
 ### Abstract
 Studies comparing large-scale assessment data among educational systems have been
